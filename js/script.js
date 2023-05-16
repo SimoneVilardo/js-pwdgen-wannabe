@@ -11,7 +11,7 @@ let colore_preferito = prompt('Qual è il tuo colore preferito?');
 let numero = '21';
 
 // VARIABILI UNIFICATE
-let password = (nome + cognome + colore_preferito + numero);
+let password = (`${nome}${cognome}${colore_preferito}${numero}`);
 
 // COME APPARE IN PAGINA
-document.getElementById('password').innerHTML = `${password}`;
+document.getElementById('password').innerHTML = password;
