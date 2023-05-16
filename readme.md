@@ -8,4 +8,8 @@ OBBIETTIVO: GENERARE UNA PASSWORD
 
 4.Appare promt 'Qual è il tuo colore preferito?'
 
-5.Far apparire in pagina risultato finale con numero '21' in seguito
+5.Creo variabile numero
+
+6.Unisco tutto in un singola variabile
+
+7.Far apparire in pagina risultato finale 
